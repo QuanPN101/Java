@@ -1,0 +1,5 @@
+t1t102;Phan Quan;quan@gmail.com;10/02/2003;8.97;0984321864;abc1
+u1t103;Le Nam;dff@hsad.com;31/02/2003;8,21;1247hbjasd;abc2
+r1t103;Nguyen Tam;close03@gmaicom;10/01/2003;83;09843;5bc3
+21t104;Nhat Linh;21@dfdad.reu;31/04/2004;1000;014768712;abc4
+21t105;Tran Ba;lj2f@hd0d.0sh;10/13/2003;1000;0984321864;abc5
